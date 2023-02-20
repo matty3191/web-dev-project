@@ -1,0 +1,33 @@
+/* TODO 
+- have a look at classes, ID's and psuedo classes
+- redesign website with some cool thematic colours in mind
+    - maybe do a whiteboard of a drawn out architecture
+- use pseudoclasses to do the cool hover thing on the links
+
+*/
+
+body {
+    background-color: #F0EBE3;
+    color: #576F72;
+}
+
+hr {
+    background-color: #F0EBE3;
+    border-style: none;
+    border-top: 10px dotted #E4DCCF;
+    overflow: none;
+    width: 40%;
+}
+
+h1 {
+    background-color: #E4DCCF;
+    color: #364a4c;
+}
+
+h3 {
+    color: #597877;
+}
+
+a:hover {
+    color: #FFCE45;
+}
